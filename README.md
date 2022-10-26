@@ -8,11 +8,11 @@ The code in the HTML pages uses in-browser babel and the dev-build of React in t
 
 Babel allow the use of more advanced JavaScript feature by converting code written in 
 ECMAScript2015+ into backwards-compatible JavaScript that the browser can understand and
-enables me to code React ins JSX
+enables me to code React in JSX
 
 ## Why React?
 
-Developing in React help me build a more maintainable and scalable application while leveraging the feature offered by React Hooks. In this small demo, it may not add a whole lot but if we needed to change the requirements (e.g. add more samples) I will be able to do that easily and quickly.
+Developing in React helps me build a more maintainable and scalable application while leveraging the feature offered by React Hooks. In this small demo, it may not add a whole lot but if we needed to change the requirements (e.g. add more samples) I will be able to do that easily and quickly.
 
 ## Netlify Link
 
