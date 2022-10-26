@@ -12,7 +12,7 @@ enables me to code React ins JSX
 
 ## Why React?
 
-Developing in React help me build a more maintainable and scalable applications while leveraging the feature offered by React Hooks. In this small demo, it may not add a whole lot but if we needed to change the requirements (e.g. add more samples) I will be able to do that easily and quickly."
+Developing in React help me build a more maintainable and scalable applications while leveraging the feature offered by React Hooks. In this small demo, it may not add a whole lot but if we needed to change the requirements (e.g. add more samples) I will be able to do that easily and quickly.
 
 ## Netlify Link
 
