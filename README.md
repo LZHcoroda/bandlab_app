@@ -1,8 +1,18 @@
 # README
 
-### pre-empt
+## Pre-empt
 
 The code in the html pages uses in-browser babel and the dev-build of react in the browser.
+
+## Why Babel?
+
+Babel allow the use of more advanced JavaScript feature by converting code written in 
+ECMAScript2015+ into backwards-compatible JavaScript that browser can understands and
+enables me to code React ins JSX
+
+## Why React?
+
+Developing in React help me build a more maintainable and scalable applications while leveraging the feature offered by React Hooks. In this small demo, it may not add a whole lot but if we needed to change the requirements (e.g. add more samples) I will be able to do that easily and quickly."
 
 ## Netlify Link
 

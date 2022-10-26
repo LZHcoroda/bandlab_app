@@ -1,5 +1,3 @@
-const audioContext = new AudioContext();
-
 const TRACK_LIST = [
   {
     id: 1,
@@ -16,6 +14,7 @@ const TRACK_LIST = [
 function AudioPage() {
   const [file, setFile] = React.useState('');
 
+  const audioContext = new AudioContext();
   const audio = new Audio(file);
   const source = audioContext.createMediaElementSource(audio);
   source.connect(audioContext.destination);
